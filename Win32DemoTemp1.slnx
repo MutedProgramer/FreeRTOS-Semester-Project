@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Win32DemoTemp1.vcxproj" Id="ecddbf66-4678-4ed2-b024-9d01f89926bd" />
+</Solution>
